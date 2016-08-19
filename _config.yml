@@ -1,0 +1,14 @@
+layout_spectrum: 0.3374340229202062
+typography_spectrum: 0.06822831300087273
+color:
+  brandStrength: 0.1363369922619313
+  lightness: 0.9048223462887108
+  saturation: 0.8640990222338587
+  rhythmicContrast: 0.7910023329313844
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: chozun
